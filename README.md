@@ -1,1 +1,1 @@
-# IndividuellUppgiftGrafiskaVerktyg
+# Individuell Uppgift - Grafiska Verktyg
